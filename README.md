@@ -4,9 +4,8 @@
 
 
 ## Presentation
-This is a code repository for the Othello game. 
-
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
+This is a code repository for the Othello game using python and minimax algorithm and his improvement alpha-beta-pruning algorithm. 
 
 Setup:
-- run ```npm i && npm start``` for both client and server side to start the development server
+- you need just to install the requirement python libraries using `pip install {library name}`
+- make sure you have pip package installed 
